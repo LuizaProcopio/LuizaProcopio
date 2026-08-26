@@ -56,11 +56,12 @@ status:      [ONLINE] disponível para novos projetos
 <tr>
 <td width="50%">
 
-### 🏛️ SistemaDeBiblioteca
-Primeiro projeto com **Java + Spring**, sistema de gerenciamento de biblioteca.
-`Java` `Spring`
-📎 [ver repositório](https://github.com/LuizaProcopio/SistemaDeBiblioteca)
+### 🎙️ LibraryAPI
+API REST para gerenciamento de uma biblioteca, desenvolvida em **Java + Spring Boot**.
+`Java` `Spring Boot` `MySQL`
+📎 [Ver repositório](https://github.com/LuizaProcopio/LibraryAPI)
 
+<br><br>
 </td>
 <td width="50%">
 
@@ -69,6 +70,7 @@ Projeto de desenvolvimento **mobile** com foco em sustentabilidade.
 `Dart`
 📎 [ver repositório](https://github.com/LuizaProcopio/EcoTech)
 
+<br><br>
 </td>
 </tr>
 <tr>
@@ -79,6 +81,7 @@ Implementação da **Cifra de César** em Java — criptografia clássica.
 `Java`
 📎 [ver repositório](https://github.com/LuizaProcopio/Cifra_de_Cesar)
 
+<br><br>
 </td>
 <td width="50%">
 
@@ -87,22 +90,12 @@ Aplicação em **JavaScript** para envio/gravação de dados.
 `JavaScript`
 📎 [ver repositório](https://github.com/LuizaProcopio/SendRecord)
 
+<br><br>
 </td>
 </tr>
 </table>
 
-
 <br>
-
-## `>` github_stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizaProcopio&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7FFFD4&currStreakLabel=00F0FF"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizaProcopio&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=7FFFD4&point=FFFFFF"/>
-
-</div>
 
 ## `>` trophies
 
